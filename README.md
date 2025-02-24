@@ -1,12 +1,12 @@
-## LinkedIn Connection Inviter
+# LinkedIn Connection Inviter
 Este é um script de automação em Python que envia convites de conexão automaticamente para as pessoas recomendadas pelo LinkedIn. A automação é feita usando a biblioteca pyautogui, que simula interações com o teclado e o mouse.
 
-# Funcionalidades
+## Funcionalidades
 Abre o Google Chrome automaticamente.
 Acessa a página inicial do LinkedIn.
 Navega até a seção de recomendações de conexão.
 Envia convites de conexão automaticamente para três recomendações.
-# Pré-requisitos
+## Pré-requisitos
 Python 3.x instalado
 Biblioteca pyautogui
 Você pode instalar com o comando:
@@ -14,7 +14,7 @@ bash
 Copiar
 Editar
 pip install pyautogui
-# Como usar
+## Como usar
 Clone o repositório ou copie o código.
 Certifique-se de que o navegador Google Chrome esteja instalado.
 Execute o script com:
@@ -23,7 +23,7 @@ Copiar
 Editar
 python linkedin_inviter.py
 Não mova o mouse ou pressione teclas enquanto o script estiver rodando.
-# Observações
+## Observações
 As coordenadas dos cliques (pyautogui.click(x, y)) podem variar dependendo da resolução da tela e do layout do LinkedIn. Você pode ajustar as posições usando:
 
 python
