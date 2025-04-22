@@ -31,7 +31,7 @@ pip install pyautogui
 1. Clone o repositório ou copie o código:
 
 ```bash
-git clone https://github.com/frpedro/linkedin-automatic-inviter.git
+git clone https://github.com/frpedro/self-invitation
 cd linkedin-automatic-inviter
 ```
 
